@@ -1,4 +1,4 @@
-package com.syed.weatherapp.ui.theme
+package com.syed.weatherapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.syed.weatherapp.ui.theme
+package com.syed.weatherapp.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
